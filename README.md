@@ -4,7 +4,7 @@ Halo, saya Rahadiyan Kresna Pranajaya.
 
 Repository ini berisi portfolio pembelajaran dan praktik saya di bidang Quality Assurance Manual Testing 
 
-Kemampuan : 
+# 💻 Kemampuan : 
 - Test case design
 - Bug reporting
 - API Testing menggunakan Postman
@@ -13,9 +13,9 @@ Kemampuan :
 - SDLC ( Software Development Life Cycle )
 - STLC ( Software Testing Life Cycle )
 
-Portfolio Project 
-
+# 💻 Portfolio Project 
 1. Saucedemo Web Testing
+- [Saucedemo Test Case](https://docs.google.com/spreadsheets/d/19yMKKJ_h3t9ZXWArL3BzuKDpbwsbmaelg8lRY42g2UM/edit?usp=sharing)
 
 Scope :
 - Login
