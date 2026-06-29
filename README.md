@@ -28,8 +28,15 @@ Scope :
 
 2. **API Testing**
 
-### GET USERS
+- **GET USERS**
 ![GET USERS](assets/api-testing/GET_USERS.png) 
+- **POST USERS**
+![POST USERS](assets/api-testing/POST_USERS_SUCCESS.png)
+- **PUT USERS**
+![PUT USERS](assets/api-testing/PUT_UPDATE_USERS.png)
+- **DELETE USERS**
+![DELETE USERS](assets/api-testing/DELETE_USERS.png) 
+
 
 - Validasi respon
 - Validasi status kode
