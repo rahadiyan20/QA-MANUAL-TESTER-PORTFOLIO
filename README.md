@@ -22,6 +22,9 @@ Scope :
 - Add to cart
 - Remove from cart
 - Checkout process
+- Product sorting
+- Button menu
+- Home page
 
 2. API Testing jsonplaceorder, req.res
 
@@ -31,5 +34,7 @@ Scope :
 Tools : 
 - Postman
 
+3. Bug report
+- [Bugs report saucedemo](https://docs.google.com/document/d/1jxFzSzrhuQRkmNix8EK5vf0wMZpLdRcV0P5B8QzxcKE/edit?usp=sharing) 
 
 
