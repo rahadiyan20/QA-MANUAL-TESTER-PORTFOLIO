@@ -31,7 +31,7 @@ Scope :
 - **GET USERS**
 ![GET USERS](assets/api-testing/GET_USERS.png) 
 - **POST USERS**
-![POST USERS](assets/api-testing/POST_USERS_SUCCESS.png)
+![POST USERS](assets/api-testing/POST_USER_SUCCESS.png)
 - **PUT USERS**
 ![PUT USERS](assets/api-testing/PUT_UPDATE_USERS.png)
 - **DELETE USERS**
