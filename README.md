@@ -2,7 +2,11 @@
 
 Halo, saya Rahadiyan Kresna Pranajaya.
 
-Repository ini berisi portfolio pembelajaran dan praktik saya di bidang Quality Assurance Manual Testing 
+Saya merupakan lulusan dari Universitas Muhammadiyah Sumatera Utara yang memiliki minat untuk berkarir sebagai QA Manual Tester. 
+Repository ini berisi portfolio pembelajaran dan praktik saya dalam melakukan pengujian aplikasi web serta API menggunakan pendekatan manual testing. 
+
+# 🎯 Tujuan Repository 
+Repository ini dibuat sebagai portfolio untuk memberitahu kemampuan saya dalam :
 
 # 💻 Kemampuan : 
 - Test case design
@@ -17,13 +21,13 @@ Repository ini berisi portfolio pembelajaran dan praktik saya di bidang Quality 
 1. **Web Testing**
 - [Saucedemo Test Case](https://docs.google.com/spreadsheets/d/19yMKKJ_h3t9ZXWArL3BzuKDpbwsbmaelg8lRY42g2UM/edit?usp=sharing)
 
-Scope :
+Scope Testing:
 - Login
 - Add to cart
 - Remove from cart
 - Checkout process
 - Product sorting
-- Button menu
+- Sidebar menu
 - Home page
 
 2. **API Testing**
@@ -38,8 +42,8 @@ Scope :
 ![DELETE USERS](assets/api-testing/DELETE_USERS.png) 
 
 
-- Validasi respon
-- Validasi status kode
+- ✅ Validasi respon
+- ✅ Validasi status kode
 
 Tools : 
 - Postman
