@@ -26,7 +26,10 @@ Scope :
 - Button menu
 - Home page
 
-2. **API Testing jsonplaceorder, req.res**
+2. **API Testing**
+
+### GET USERS
+![GET USERS](assets/api-testing/GET_USERS.png) 
 
 - Validasi respon
 - Validasi status kode
