@@ -62,4 +62,10 @@ API Website : https://reqres.in
 3. 🐞**Bug report**
 - [Bugs report saucedemo](https://docs.google.com/document/d/1jxFzSzrhuQRkmNix8EK5vf0wMZpLdRcV0P5B8QzxcKE/edit?usp=sharing) 
 
+# 📩 Contact 
 
+Linkedin : https://www.linkedin.com/in/rahadiyankresna/
+
+Email : rahadiyankresna00@gmail.com
+
+No WA : 081269683405
