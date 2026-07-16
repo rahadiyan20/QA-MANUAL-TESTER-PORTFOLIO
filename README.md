@@ -64,7 +64,7 @@ API Website : https://reqres.in
 
 
 **Certificate**
-![Bootcamp QA Engineer](assets/api-testing/SertifikatQA.png)
+![Bootcamp QA Engineer](assets/SertifikatQA.png)
 
 # 📩 Contact 
 
